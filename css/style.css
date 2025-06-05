@@ -1,0 +1,27 @@
+/* con display:inline si usano tag come span, a, strong ed em. Non div. */
+
+/*.allinea{
+  display: inline;
+}
+
+.nascondi{
+  display:none;
+}
+
+.mostra{
+  display:block;
+}*/
+
+.quadrato{
+  background-color: azure;
+  width:200px;
+  height: 200px;
+  border: 2px solid black ;
+}
+/*
+.flex{
+  display:flex;
+} */
+.inline-block{
+  display: inline-block;
+}
